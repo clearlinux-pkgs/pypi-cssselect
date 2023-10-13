@@ -4,7 +4,7 @@
 #
 Name     : pypi-cssselect
 Version  : 1.2.0
-Release  : 74
+Release  : 75
 URL      : https://files.pythonhosted.org/packages/d1/91/d51202cc41fbfca7fa332f43a5adac4b253962588c7cc5a54824b019081c/cssselect-1.2.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/d1/91/d51202cc41fbfca7fa332f43a5adac4b253962588c7cc5a54824b019081c/cssselect-1.2.0.tar.gz
 Summary  : cssselect parses CSS3 Selectors and translates them to XPath 1.0
